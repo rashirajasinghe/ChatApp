@@ -121,7 +121,7 @@ const generatePDFReport = async (req, res) => {
     
     // Add title
     doc.setFontSize(20);
-    doc.text('Task Management Report', 14, 22);
+    doc.text('Chat App Report', 14, 22);
     
     // Add generation date
     doc.setFontSize(12);

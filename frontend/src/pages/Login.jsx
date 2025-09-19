@@ -12,10 +12,10 @@ const Login = () => {
             <CheckSquare className="h-8 w-8 text-primary-600" />
           </div>
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-            Task Management System
+            Chat App System
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Sign in to manage your tasks
+            Sign in to manage your chats
           </p>
         </div>
         <div className="mt-8 space-y-6">

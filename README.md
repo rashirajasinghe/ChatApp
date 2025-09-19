@@ -1,6 +1,6 @@
-# Task Management System
+# Chat App System
 
-A full-stack task management application built with React, Node.js, Express.js, and MongoDB. Features Google OAuth 2.0 authentication, CRUD operations for tasks, and PDF report generation.
+A full-stack chat app built with React, Node.js, Express.js, and MongoDB. Features Google OAuth 2.0 authentication, CRUD operations for chats, and PDF report generation.
 
 ## Features
 
@@ -9,7 +9,7 @@ A full-stack task management application built with React, Node.js, Express.js, 
 - Secure session management
 - Protected routes and middleware
 
-### Task Management
+### Chat Management
 - **CRUD Operations**: Create, Read, Update, Delete tasks
 - **Task Fields**: Title, Description, Deadline, Assigned To, Status
 - **Search & Filter**: Search by title, description, or assignee
@@ -23,7 +23,7 @@ A full-stack task management application built with React, Node.js, Express.js, 
 ### UI/UX
 - Modern, responsive design with Tailwind CSS
 - Dashboard with task statistics
-- Intuitive task management interface
+- Intuitive chat management interface
 - Mobile-friendly layout
 
 ## Tech Stack
@@ -162,7 +162,7 @@ task-management-system/
 1. Open your browser and navigate to `http://localhost:3000`
 2. Click "Sign in with Google" to authenticate
 3. Once logged in, you'll see the dashboard with task statistics
-4. Navigate to "Task Manager" to create, edit, and manage tasks
+4. Navigate to "Chat Manager" to create, edit, and manage chats
 5. Use the search and filter options to find specific tasks
 6. Download PDF reports from the dashboard
 

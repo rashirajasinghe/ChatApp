@@ -1,7 +1,7 @@
 {
-  "name": "task-management-backend",
+  "name": "chat-app-backend",
   "version": "1.0.0",
-  "description": "Backend for Task Management System",
+  "description": "Backend for Chat App System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": ["task-management", "express", "mongodb", "oauth"],
+  "keywords": ["chat-app", "express", "mongodb", "oauth"],
   "author": "Your Name",
   "license": "MIT"
 }
